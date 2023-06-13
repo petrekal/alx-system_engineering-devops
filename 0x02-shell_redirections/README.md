@@ -1,1 +1,1 @@
-Shell, I/O Redirections and filters DevOps ShellBash
+0x02. Shell, I/O Redirections and filters
